@@ -1,5 +1,5 @@
 services:
-  web:
+  django_pj:
     build: .
     volumes:
       - .:/django_pj
